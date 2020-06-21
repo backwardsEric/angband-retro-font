@@ -1,0 +1,426 @@
+# Map objects to 2.9.6's font (angband.fnt converted to 8x16retro.fon).
+object:light:Wooden Torch:7:0x9c
+object:light:Lantern:15:0x8d
+object:flask:Flask of oil:11:0x92
+object:food:Hard Biscuit:15:0x89
+object:food:Apple:12:0x89
+object:food:Handful of Dried Fruits:7:0x89
+object:food:Slime Mold:5:0x89
+object:food:Ration of Food:15:0x89
+object:food:Scrap of Flesh:2:0x89
+object:food:Slice of Meat:9:0x89
+object:food:Honey-cake:11:0x89
+object:food:Piece of Elvish Waybread:14:0x89
+object:food:Flask of Whisky:11:0x89
+object:food:Pint of Fine Wine:4:0x89
+object:food:Sip of Miruvor:1:0x89
+object:food:Swig of Orcish Liquor:19:0x89
+object:food:Draught of the Ents:1:0x89
+object:mushroom:Second Sight:0:0x90
+object:mushroom:Fast Recovery:0:0x90
+object:mushroom:Vigor:0:0x90
+object:mushroom:Clear Mind:0:0x90
+object:mushroom:Emergency:0:0x90
+object:mushroom:Terror:0:0x90
+object:mushroom:Stoneskin:0:0x90
+object:mushroom:Turbulence:0:0x90
+object:mushroom:Debility:0:0x90
+object:mushroom:Sprinting:0:0x90
+object:mushroom:Purging:0:0x90
+object:mushroom:Shadows:0:0x90
+object:sword:Dagger:9:0x9e
+object:sword:Main Gauche:9:0x9e
+object:sword:Rapier:9:0x9e
+object:sword:Short Sword:9:0x9e
+object:sword:Cutlass:9:0x9e
+object:sword:Tulwar:9:0x9e
+object:sword:Scimitar:9:0x9e
+object:sword:Long Sword:9:0x9e
+object:sword:Broad Sword:9:0x9e
+object:sword:Bastard Sword:9:0x9e
+object:sword:Katana:9:0x9e
+object:sword:Zweihander:9:0x9e
+object:sword:Executioner's Sword:4:0x9e
+object:sword:Blade of Chaos:17:0x9e
+object:hafted:Whip:8:0xa0
+object:hafted:Ball-and-Chain:8:0xa0
+object:hafted:Morning Star:8:0xa0
+object:hafted:Flail:8:0xa0
+object:hafted:Two-Handed Great Flail:11:0xa0
+object:hafted:Mace:8:0xa0
+object:hafted:Lead-Filled Mace:8:0xa0
+object:hafted:Quarterstaff:15:0xa0
+object:hafted:Throwing Hammer:8:0xa0
+object:hafted:War Hammer:8:0xa0
+object:hafted:Maul:8:0xa0
+object:hafted:Great Hammer:8:0xa0
+object:hafted:Mace of Disruption:17:0xa0
+object:polearm:Spear:2:0xaf
+object:polearm:Awl-Pike:2:0xaf
+object:polearm:Trident:11:0xaf
+object:polearm:Halberd:2:0xaf
+object:polearm:Pike:2:0xaf
+object:polearm:Throwing Axe:2:0xaf
+object:polearm:Beaked Axe:2:0xaf
+object:polearm:Broad Axe:2:0xaf
+object:polearm:Battle Axe:2:0xaf
+object:polearm:Lochaber Axe:8:0xaf
+object:polearm:Great Axe:2:0xaf
+object:polearm:Scythe:2:0xaf
+object:polearm:Glaive:2:0xaf
+object:polearm:Lance:2:0xaf
+object:polearm:Scythe of Slicing:4:0xaf
+object:polearm:Lucerne Hammer:14:0xaf
+object:bow:Sling:7:0x8f
+object:bow:Short Bow:15:0x8f
+object:bow:Long Bow:15:0x8f
+object:bow:Light Crossbow:2:0x8f
+object:bow:Heavy Crossbow:2:0x8f
+object:arrow:Arrow:15:0x8e
+object:arrow:Seeker Arrow:13:0x8e
+object:arrow:Mithril Arrow:14:0x8e
+object:bolt:Bolt:2:0x8e
+object:bolt:Seeker Bolt:5:0x8e
+object:bolt:Mithril Bolt:14:0x8e
+object:shot:Rounded Pebble:2:0x8e
+object:shot:Iron Shot:2:0x8e
+object:shot:Mithril Shot:14:0x8e
+object:digger:Shovel:2:0x97
+object:digger:Pick:5:0x97
+object:digger:Mattock:8:0x97
+object:boots:Pair of Leather Sandals:15:0x86
+object:boots:Pair of Leather Boots:15:0x86
+object:boots:Pair of Iron Shod Boots:15:0x86
+object:boots:Pair of Steel Shod Boots:2:0x86
+object:boots:Pair of Mithril Shod Boots:14:0x86
+object:boots:Pair of Ethereal Slippers:15:0x86
+object:helm:Hard Leather Cap:7:0x8b
+object:helm:Metal Cap:2:0x8b
+object:helm:Iron Helm:2:0x8b
+object:helm:Steel Helm:9:0x8b
+object:crown:Iron Crown:2:0x8b
+object:crown:Golden Crown:11:0x8b
+object:crown:Jewel Encrusted Crown:17:0x8b
+object:soft armor:Robe:6:0x84
+object:soft armor:Soft Leather Armour:15:0x84
+object:soft armor:Studded Leather Armour:15:0x84
+object:soft armor:Hard Leather Armour:15:0x84
+object:soft armor:Leather Scale Mail:15:0x84
+object:hard armor:Metal Scale Mail:2:0x84
+object:hard armor:Chain Mail:2:0x84
+object:hard armor:Augmented Chain Mail:2:0x84
+object:hard armor:Bar Chain Mail:2:0x84
+object:hard armor:Metal Brigandine Armour:2:0x84
+object:hard armor:Partial Plate Armour:9:0x84
+object:hard armor:Metal Lamellar Armour:9:0x84
+object:hard armor:Full Plate Armour:9:0x84
+object:hard armor:Ribbed Plate Armour:9:0x84
+object:hard armor:Mithril Chain Mail:14:0x84
+object:hard armor:Mithril Plate Mail:14:0x84
+object:hard armor:Adamantite Plate Mail:13:0x84
+object:cloak:Cloak:5:0x88
+object:cloak:Fur Cloak:3:0x88
+object:cloak:Elven Cloak:8:0x88
+object:cloak:Ethereal Cloak:9:0x88
+object:gloves:Set of Leather Gloves:15:0x8a
+object:gloves:Set of Gauntlets:2:0x8a
+object:gloves:Set of Mithril Gauntlets:14:0x8a
+object:gloves:Set of Caestus:15:0x8a
+object:gloves:Set of Alchemist's Gloves:12:0x8a
+object:shield:Wicker Shield:15:0x96
+object:shield:Small Metal Shield:2:0x96
+object:shield:Leather Shield:15:0x96
+object:shield:Large Metal Shield:2:0x96
+object:shield:Knight's Shield:9:0x96
+object:shield:Mithril Shield:14:0x96
+object:ring:Strength:0:0x93
+object:ring:Intelligence:0:0x93
+object:ring:Dexterity:0:0x93
+object:ring:Constitution:0:0x93
+object:ring:Speed:0:0x93
+object:ring:Searching:0:0x93
+object:ring:Bodykeeping:0:0x93
+object:ring:Soulkeeping:0:0x93
+object:ring:Resist Poison:0:0x93
+object:ring:Resist Fire and Cold:0:0x93
+object:ring:Light:0:0x93
+object:ring:Flames:0:0x93
+object:ring:Acid:0:0x93
+object:ring:Ice:0:0x93
+object:ring:Lightning:0:0x93
+object:ring:Damage:0:0x93
+object:ring:Accuracy:0:0x93
+object:ring:Slaying:0:0x93
+object:ring:Protection:0:0x93
+object:ring:Teleportation:0:0x93
+object:ring:Reckless Attacks:0:0x93
+object:ring:Open Wounds:0:0x93
+object:ring:Escaping:0:0x93
+object:ring:the Mouse:0:0x93
+object:ring:the Dog:0:0x93
+object:ring:Slow Digestion:0:0x93
+object:ring:Feather Falling:0:0x93
+object:ring:Free Action:0:0x93
+object:ring:See Invisible:0:0x93
+object:ring:Digging:0:0x93
+object:amulet:Wisdom:0:0x82
+object:amulet:Resist Lightning:0:0x82
+object:amulet:Resist Acid:0:0x82
+object:amulet:Resistance:0:0x82
+object:amulet:Sustenance:0:0x82
+object:amulet:the Magi:0:0x82
+object:amulet:ESP:0:0x82
+object:amulet:Devotion:0:0x82
+object:amulet:Weaponmastery:0:0x82
+object:amulet:Trickery:0:0x82
+object:amulet:Regeneration:0:0x82
+object:amulet:Infravision:0:0x82
+object:amulet:Searching:0:0x82
+object:amulet:Teleportation:0:0x82
+object:amulet:Slow Digestion:0:0x82
+object:amulet:Adornment:0:0x82
+object:amulet:Inertia:0:0x82
+object:scroll:Phase Door:1:0x95
+object:scroll:Teleportation:1:0x95
+object:scroll:Teleport Level:1:0x95
+object:scroll:Magic Mapping:1:0x95
+object:scroll:Treasure Detection:1:0x95
+object:scroll:Detect Invisible:1:0x95
+object:scroll:Identify Rune:1:0x95
+object:scroll:Enchant Weapon To-Hit:1:0x95
+object:scroll:Enchant Weapon To-Dam:1:0x95
+object:scroll:Enchant Armour:1:0x95
+object:scroll:*Enchant Weapon*:1:0x95
+object:scroll:*Enchant Armour*:1:0x95
+object:scroll:Remove Curse:1:0x95
+object:scroll:*Remove Curse*:1:0x95
+object:scroll:Summon Monster:1:0x95
+object:scroll:Summon Undead:1:0x95
+object:scroll:Acquirement:1:0x95
+object:scroll:*Acquirement*:1:0x95
+object:scroll:Dispel Undead:1:0x95
+object:scroll:Banishment:1:0x95
+object:scroll:Mass Banishment:1:0x95
+object:scroll:Remove Hunger:1:0x95
+object:scroll:Light:1:0x95
+object:scroll:Word of Recall:1:0x95
+object:scroll:Recharging:1:0x95
+object:scroll:Door Destruction:1:0x95
+object:scroll:Deep Descent:1:0x95
+object:scroll:Blessing:1:0x95
+object:scroll:Holy Chant:1:0x95
+object:scroll:Holy Prayer:1:0x95
+object:scroll:Protection from Evil:1:0x95
+object:scroll:Monster Confusion:1:0x95
+object:scroll:Rune of Protection:1:0x95
+object:scroll:*Destruction*:1:0x95
+object:scroll:Aggravate Monster:1:0x95
+object:scroll:Curse Weapon:1:0x95
+object:scroll:Curse Armour:1:0x95
+object:scroll:Darkness:1:0x95
+object:scroll:Trap Creation:1:0x95
+object:potion:Strength:0:0x92
+object:potion:Intelligence:0:0x92
+object:potion:Wisdom:0:0x92
+object:potion:Dexterity:0:0x92
+object:potion:Constitution:0:0x92
+object:potion:Augmentation:0:0x92
+object:potion:Experience:0:0x92
+object:potion:Cure Light Wounds:0:0x92
+object:potion:Cure Serious Wounds:0:0x92
+object:potion:Cure Critical Wounds:0:0x92
+object:potion:Healing:0:0x92
+object:potion:*Healing*:0:0x92
+object:potion:Life:0:0x92
+object:potion:Neutralize Poison:0:0x92
+object:potion:Restore Mana:0:0x92
+object:potion:Restore Life Levels:0:0x92
+object:potion:Brawn:0:0x92
+object:potion:Intellect:0:0x92
+object:potion:Contemplation:0:0x92
+object:potion:Nimbleness:0:0x92
+object:potion:Toughness:0:0x92
+object:potion:Enlightenment:0:0x92
+object:potion:*Enlightenment*:0:0x92
+object:potion:Speed:0:0x92
+object:potion:Heroism:0:0x92
+object:potion:Berserk Strength:0:0x92
+object:potion:Boldness:0:0x92
+object:potion:Resist Heat:0:0x92
+object:potion:Resist Cold:0:0x92
+object:potion:Resist Poison:0:0x92
+object:potion:True Seeing:0:0x92
+object:potion:Infravision:0:0x92
+object:potion:Slime Mold Juice:0:0x92
+object:potion:Sleep:0:0x92
+object:potion:Blindness:0:0x92
+object:potion:Confusion:0:0x92
+object:potion:Poison:0:0x92
+object:potion:Slowness:0:0x92
+object:potion:Surprise:0:0x92
+object:potion:Salt Water:0:0x92
+object:potion:Dragon Breath:0:0x92
+object:wand:Magic Missile:0:0x9d
+object:wand:Lightning Bolts:0:0x9d
+object:wand:Frost Bolts:0:0x9d
+object:wand:Fire Bolts:0:0x9d
+object:wand:Acid Bolts:0:0x9d
+object:wand:Stinking Cloud:0:0x9d
+object:wand:Lightning Balls:0:0x9d
+object:wand:Cold Balls:0:0x9d
+object:wand:Fire Balls:0:0x9d
+object:wand:Acid Balls:0:0x9d
+object:wand:Slow Monster:0:0x9d
+object:wand:Confuse Monster:0:0x9d
+object:wand:Hold Monster:0:0x9d
+object:wand:Stun Monster:0:0x9d
+object:wand:Scare Monster:0:0x9d
+object:wand:Light:0:0x9d
+object:wand:Stone to Mud:0:0x9d
+object:wand:Polymorph:0:0x9d
+object:wand:Darkness:0:0x9d
+object:wand:Clone Monster:0:0x9d
+object:wand:Teleport Other:0:0x9d
+object:wand:Disable Traps:0:0x9d
+object:wand:Wonder:0:0x9d
+object:wand:Dragon's Flame:0:0x9d
+object:wand:Dragon's Frost:0:0x9d
+object:wand:Dragon's Breath:0:0x9d
+object:wand:Drain Life:0:0x9d
+object:wand:Annihilation:0:0x9d
+object:wand:Heal Monster:0:0x9d
+object:wand:Haste Monster:0:0x9d
+object:staff:Summoning:0:0x9a
+object:staff:Haste Monsters:0:0x9a
+object:staff:Darkness:0:0x9a
+object:staff:Earthquakes:0:0x9a
+object:staff:*Destruction*:0:0x9a
+object:staff:Confuse Monsters:0:0x9a
+object:staff:Slow Monsters:0:0x9a
+object:staff:Sleep Monsters:0:0x9a
+object:staff:Detect Invisible:0:0x9a
+object:staff:Detect Evil:0:0x9a
+object:staff:Mapping:0:0x9a
+object:staff:Curing:0:0x9a
+object:staff:Cure Light Wounds:0:0x9a
+object:staff:Healing:0:0x9a
+object:staff:Dispel Evil:0:0x9a
+object:staff:Banishment:0:0x9a
+object:staff:Power:0:0x9a
+object:staff:Holiness:0:0x9a
+object:staff:Light:0:0x9a
+object:staff:Starlight:0:0x9a
+object:staff:Teleportation:0:0x9a
+object:staff:Speed:0:0x9a
+object:staff:Remove Curse:0:0x9a
+object:staff:the Magi:0:0x9a
+object:rod:Treasure Location:0:0x94
+object:rod:Detection:0:0x94
+object:rod:Magic Mapping:0:0x94
+object:rod:Probing:0:0x94
+object:rod:Fire Bolts:0:0x94
+object:rod:Frost Bolts:0:0x94
+object:rod:Lightning Bolts:0:0x94
+object:rod:Acid Bolts:0:0x94
+object:rod:Fire Balls:0:0x94
+object:rod:Cold Balls:0:0x94
+object:rod:Lightning Balls:0:0x94
+object:rod:Acid Balls:0:0x94
+object:rod:Slow Monster:0:0x94
+object:rod:Hold Monster:0:0x94
+object:rod:Curing:0:0x94
+object:rod:Healing:0:0x94
+object:rod:Restoration:0:0x94
+object:rod:Polymorph:0:0x94
+object:rod:Drain Life:0:0x94
+object:rod:Teleport Other:0:0x94
+object:rod:Disable Traps:0:0x94
+object:rod:Light:0:0x94
+object:rod:Illumination:0:0x94
+object:rod:Recall:0:0x94
+object:rod:Speed:0:0x94
+object:chest:Small wooden chest:2:0x87
+object:chest:Large wooden chest:2:0x87
+object:chest:Small iron chest:2:0x87
+object:chest:Large iron chest:2:0x87
+object:chest:Small steel chest:2:0x87
+object:chest:Large steel chest:2:0x87
+object:dragon armor:Black Dragon Scale Mail:2:0x84
+object:dragon armor:Blue Dragon Scale Mail:6:0x84
+object:dragon armor:White Dragon Scale Mail:1:0x84
+object:dragon armor:Red Dragon Scale Mail:4:0x84
+object:dragon armor:Green Dragon Scale Mail:5:0x84
+object:dragon armor:Multi-Hued Dragon Scale Mail:17:0x84
+object:dragon armor:Shining Dragon Scale Mail:3:0x84
+object:dragon armor:Law Dragon Scale Mail:14:0x84
+object:dragon armor:Gold Dragon Scale Mail:11:0x84
+object:dragon armor:Chaos Dragon Scale Mail:17:0x84
+object:dragon armor:Balance Dragon Scale Mail:17:0x84
+object:dragon armor:Power Dragon Scale Mail:17:0x84
+object:gold:copper:7:0xd1
+object:gold:silver:2:0xd1
+object:gold:garnets:4:0xcf
+object:gold:gold:11:0xd1
+object:gold:opals:9:0xcf
+object:gold:sapphires:6:0xcf
+object:gold:rubies:4:0xcf
+object:gold:diamonds:1:0xcf
+object:gold:emeralds:5:0xcf
+object:gold:mithril:14:0xd1
+object:gold:adamantite:13:0xd1
+object:hafted:Mighty Hammer:8:0xa0
+object:crown:Massive Iron Crown:8:0x8b
+object:magic book:[First Spells]:12:0x85
+object:magic book:[Attacks and Knowledge]:12:0x85
+object:magic book:[Magical Defences]:12:0x85
+object:magic book:[Arcane Control]:4:0x85
+object:magic book:[Wizard's Tome of Power]:4:0x85
+object:nature book:[Lesser Charms]:11:0x85
+object:nature book:[Gifts of Nature]:11:0x85
+object:nature book:[Creature Dominion]:3:0x85
+object:nature book:[Nature Craft]:3:0x85
+object:nature book:[Wild Forces]:3:0x85
+object:prayer book:[Novice's Handbook]:13:0x85
+object:prayer book:[Cleansing Power]:13:0x85
+object:prayer book:[Healing and Sanctuary]:5:0x85
+object:prayer book:[Battle Blessings]:5:0x85
+object:prayer book:[Wrath of the Valar]:5:0x85
+object:shadow book:[Into the Shadows]:10:0x85
+object:shadow book:[Dark Rituals]:10:0x85
+object:shadow book:[Fear and Torment]:10:0x85
+object:shadow book:[Deadly Powers]:16:0x85
+object:shadow book:[Corruption of Spirit]:16:0x85
+object:light:Phial:11:0x91
+object:light:Star:11:0x9b
+object:light:Arkenstone:11:0x83
+object:ring:Ring:0:0x93
+object:ring:Band:0:0x93
+object:ring:Ring of Fire:0:0x93
+object:ring:Ring of Adamant:0:0x93
+object:ring:Ring of Firmament:0:0x93
+object:ring:Ring of Power:11:0x93
+object:amulet:Amulet:0:0x82
+object:amulet:Pendant:0:0x82
+object:amulet:Necklace:11:0x82
+object:amulet:Elfstone:5:0x82
+object:amulet:Jewel:1:0x82
+# Map features to 2.9.6's font (angband.fnt converted to 8x16retro.fon).
+
+feat:closed door:*:15:0xcd
+feat:up staircase:*:1:0xe0
+feat:down staircase:*:1:0xce
+feat:General Store:*:15:0xc3
+feat:Armoury:*:2:0xc4
+feat:Weapon Smiths:*:1:0xc5
+feat:Bookseller:*:5:0xc6
+feat:Alchemy Shop:*:6:0xc7
+feat:Magic Shop:*:4:0xc8
+feat:Black Market:*:8:0xc9
+feat:Home:*:11:0xca
+feat:pile of rubble:*:9:0xdb
+feat:magma vein:*:8:0xd7
+feat:quartz vein:*:2:0xda
+feat:magma vein with treasure:*:3:0xd2
+feat:quartz vein with treasure:*:11:0xd3
+feat:granite wall:*:9:0xd4
+feat:pile of passable rubble:*:7:0xdb
